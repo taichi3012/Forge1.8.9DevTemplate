@@ -2,7 +2,7 @@
   {
     "modid": "examplemod",
     "name": "Example Mod",
-    "description": "Example placeholder mod.",
+    "description": "Example placeholder mod.%`これはテンプレートです。`%",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
